@@ -9,6 +9,10 @@ body {
     line-height: 22px;
 }
 
+.memoria1 {
+  width:50%;
+}
+
 .cabtitle {
     background: #65B307;
     display: flex;
