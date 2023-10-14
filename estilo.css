@@ -9,6 +9,14 @@ body {
     line-height: 22px;
 }
 
+.produto {
+  color: #FFFFFF;
+  position: relative;
+  border-radius: 10px;
+  min-height: 380px;
+  background-color:#FFFFFF
+}
+
 .memoria1 {
   width:10%;
 }
