@@ -11,8 +11,7 @@ body {
 
 .inline {
   display: inline-flex;
-  width: 940px;
-  margin: 0 auto;
+  justify-content: space-around;
 }
 
 .produto {
@@ -32,7 +31,7 @@ body {
 .cabtitle {
     background: #65B307;
     display: flex;
-	justify-content: space-around;
+	  justify-content: space-around;
     font-family: 'PT Serif', serif;
     padding: 10px 15px;
 }
