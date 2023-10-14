@@ -15,7 +15,6 @@ body {
   border-radius: 10px;
   min-height: 80px;
   background-color:#FFFFFF
-  animation: shadow-drop-right .4s cubic-bezier(.25,.46,.45,.94) both;
 }
 
 .memoria1 {
