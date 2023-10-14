@@ -9,6 +9,10 @@ body {
     line-height: 22px;
 }
 
+.inline {
+  display: inline-block;
+}
+
 .produto {
   color:#1b1717;
   position: relative;
