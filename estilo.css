@@ -10,7 +10,7 @@ body {
 }
 
 .inline {
-  display: inline-block;
+  display: inline-flex;
 }
 
 .produto {
