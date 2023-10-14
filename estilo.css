@@ -1,7 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-}
 body {
     background: blanchedalmond;
     font-family: "Open Sans",sans-serif;
@@ -11,6 +7,7 @@ body {
 
 .inline {
   display: inline-flex;
+  margin: 20px;
 }
 
 .produto {
