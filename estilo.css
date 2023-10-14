@@ -5,6 +5,10 @@ body {
     line-height: 22px;
 }
 
+.titulo-destaque {
+  margin: 5 auto;
+}
+
 .inline {
   display: inline-flex;
   width: 940px;
